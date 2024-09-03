@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a restaurant reservation with php, laravel**
+ 🔭 I’m currently working on **C# and a restaurant reservation with php, laravel**
  
  🌱 I’m currently learning **Go, Python, C#**
 
