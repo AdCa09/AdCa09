@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,php,python,javascript,go,cypress,laravel,mysql,cs,docker,blender" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,html,css,sass,tailwind,vscode,github,git,linux,kali" />
+    <img src="https://skillicons.dev/icons?i=,php,python,javascript,go,cypress,laravel,mysql,cs,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,html,css,sass,tailwind,vscode,github,git,linux,kali,blender" />
 </div>
 
 <br/>
