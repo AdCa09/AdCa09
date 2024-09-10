@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **C# and a restaurant reservation with php, laravel**
  
- 🌱 I’m currently learning **Go, Python, C#**
+ 🌱 I’m currently learning **Cypress, Python, C#**
 
 ⚡ Fun fact **The name "Simpson" is inspired by Matt Groening's own family name**
 
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,python,javascript,php,go,mysql,cs,docker,blender" /><br>
+    <img src="https://skillicons.dev/icons?i=,php,python,javascript,go,cypress,laravel,mysql,cs,docker,blender" /><br>
     <img src="https://skillicons.dev/icons?i=postman,html,css,sass,tailwind,vscode,github,git,linux,kali" />
 </div>
 
