@@ -3,15 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adrien!;" />
 </h1>
 
-<h3 align="center">A passionate backend developer from Belgium BE</h3>
+<h3 align="center">A passionate Fullstack developer from Belgium BE</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **cypress and a restaurant reservation with php, laravel**
+ 🔭 I’m currently working on **Cypress, React and Python**
  
- 🌱 I’m currently learning **Cypress, Python, C#**
+ 🌱 I’m currently learning **Cypress, React and Python**
 
 ⚡ Fun fact **The name "Simpson" is inspired by Matt Groening's own family name**
 
@@ -34,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,php,python,javascript,go,cypress,laravel,mysql,cs,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,html,css,sass,tailwind,vscode,github,git,linux,kali,blender" />
+    <img src="https://skillicons.dev/icons?i=,php,python,javascript,react,go,cypress,laravel,mysql,cs,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=,postman,html,css,sass,tailwind,vscode,github,git,linux,kali,blender" />
 </div>
 
 <br/>
