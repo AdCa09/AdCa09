@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Cypress, React and Python**
+ 🔭 I’m currently working on **NestJs, React and Python**
  
- 🌱 I’m currently learning **Cypress, React and Python**
+ 🌱 I’m currently learning **NestJs, React and Python**
 
 ⚡ Fun fact **The name "Simpson" is inspired by Matt Groening's own family name**
 
